@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<config>
+  <servidor>localhost</servidor>
+  <usuario>root</usuario>
+  <password></password>
+  <basedatos>uag</basedatos>
+</config>

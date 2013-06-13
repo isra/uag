@@ -1,0 +1,149 @@
+body
+{
+  margin:0px;
+}
+
+#opciones
+{
+  background-color:#ff5566;
+  border:1px solid #00f;
+  font-family:arial;
+}
+#opciones table
+{
+  color:#fff;
+}
+
+#opciones2
+{
+  background-color:#fff;
+  border:0px solid #00f;
+  font-family:arial;
+  text-transform:capitalize;
+}
+#opciones2 table
+{
+  color:#f00;
+  text-transform:capitalize;
+}
+
+#ContenedorlistaOpciones
+{
+  background-color:#fff;
+  border:0px solid #f00;
+  padding:0px;
+  margin:00px;
+}
+#listaOpciones
+{
+  background-color:#336690;
+  border:1px solid #f00;
+  padding:10px;
+  margin:10px;
+}
+#listaOpciones div
+{
+  width:100%;
+  font:bold oblique 13px Time New Roman;
+  color:#fff;
+}
+
+#avisos
+{
+  border: 1px dashed #0f0;
+  background-color:#ffd;
+  font:bold oblique 14px Courier New;
+  color:#f00;
+  display:none;
+}
+#avisos #tablaListaPersonal #cero
+{
+  background-color:#367;
+  font:bold oblique 14px Courier New;
+  text-transform:capitalize;
+  color:#fff;
+}
+#avisos #tablaListaPersonal #uno
+{
+  background-color:#fff;
+  font:bold oblique 14px Courier New;
+  text-transform:capitalize;
+  color:#367;
+}
+
+a
+{
+  background-color:#fff;
+  font:bold oblique 14px Courier New;
+  text-transform:capitalize;
+  color:#00f;
+}
+
+#divTramitesIniciados #cero span, #divTramitesIniciados #uno span
+{
+  color:#f00;
+  cursor:pointer;
+}
+
+#divTramitesIniciados #cero
+{
+  background-color:#367;
+  font:bold oblique 14px Courier New;
+  text-transform:capitalize;
+  color:#fff;
+}
+#divTramitesIniciados #uno
+{
+  background-color:#fff;
+  font:bold oblique 14px Courier New;
+  text-transform:capitalize;
+  color:#367;
+}
+
+#tareas #divListaResp p
+{
+  border: 1px dashed #f00;
+  background-color:#add;
+  padding:3px;
+  margin:10px;
+  color:#114;
+  font-family:Courier New;
+  text-transform:uppercase;
+}
+
+#divTramitesIniciados p
+{
+  border: 1px dashed #f00;
+  background-color:#add;
+  padding:3px;
+  margin:10px;
+  color:#114;
+  font-family:Courier New;
+  text-transform:uppercase;
+  text-align:left;
+}
+
+#tareas #divListaResp table
+{
+  border: 1px dashed #f00;
+  background-color:#add;
+  color:#114;
+  font-family:Courier New;
+  text-transform:uppercase;
+}
+
+#spanListadoAlumnos #cero
+{
+  background-color:#367;
+  font:bold oblique 14px Courier New;
+  text-transform:capitalize;
+  color:#fff;
+}
+
+#spanListadoAlumnos #uno
+{
+  background-color:#fff;
+  font:bold oblique 14px Courier New;
+  text-transform:capitalize;
+  color:#367;
+}

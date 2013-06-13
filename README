@@ -1,0 +1,17 @@
+Fue mi proyecto de residencias para salir de la universidad, anexo manual técnico
+
+https://www.dropbox.com/s/7pwvtcxq7j82h0p/manual-de-usuario.pdf
+
+La base de datos esta dentro de BD/uag_20052008_10.03_Datos_Vacios.sql
+
+De acuerdo a su última actualización fue el 09 junio de 2008 a las 03:12 am, desde entonces las desveladas se me siguen dando :)
+
+Existen varias cosas por corregir,
+-entre que los datos del login que se guardan sin un hash
+-los datos de acceso a la BD están en un XML libres también (aquí fue porque quería probar  simplexml_load_file)
+-mucho js, sin refactoring
+-etc, etc
+
+Finalmente fue hace ya algunos años e iniciaba desarrollando en web, ;-)
+
+Isaac
